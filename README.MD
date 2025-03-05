@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently on the Deep learning and LLM models.
+I'm currently working on the Deep learning and LLM models.
 
 
 # 💻 Tech Stack:
