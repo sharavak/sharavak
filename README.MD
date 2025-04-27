@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final year Btech AI student.<br>Passion in AI and software developement<br>I'm currently working on the Deep learning and LLM models.
+Final year Btech AI student.<br>Passion in AI and software development<br>I'm currently working on the Deep learning and LLM models.
 
 
 # 💻 Tech Stack:
