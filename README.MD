@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final year Btech AI student.<br>Passion in AI and software development<br>
+Graduated Btech AI student.<br>Passion in AI and software development<br>
 
 
 # 💻 Tech Stack:
